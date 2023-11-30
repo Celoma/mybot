@@ -3,9 +3,8 @@ from discord.ext import commands
 import random
 import function
 
-idToken = 'MTE3OTQwOTk1MTM0MTQxMjM3Mg.GQuZPG.G5myc6ZB-wTo4BK9xyE_hJ1LkUnwsLars87Emk'
-idServ = 1160897939724566648
-idChan = 1179695466250772482
+idToken = '#YOURTOKEN'
+idServ = #SERVTOKEN
 idOwn = 263776530327404554
 prefix = '$'
 
